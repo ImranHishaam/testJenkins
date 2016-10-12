@@ -410,10 +410,10 @@
 				ORGANIZATIONNAME = "Charlie Fulton";
 				TargetAttributes = {
 					CB9FDC3A15E9872D00B3713E = {
-						DevelopmentTeam = 77A85Q324A;
+						DevelopmentTeam = 9W76HCBJZA;
 					};
 					CB9FDC5B15E9872E00B3713E = {
-						DevelopmentTeam = 77A85Q324A;
+						DevelopmentTeam = 9W76HCBJZA;
 					};
 				};
 			};
@@ -579,7 +579,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = 77A85Q324A;
+				DEVELOPMENT_TEAM = 9W76HCBJZA;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -608,7 +608,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
-				DEVELOPMENT_TEAM = 77A85Q324A;
+				DEVELOPMENT_TEAM = 9W76HCBJZA;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
@@ -625,7 +625,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = 77A85Q324A;
+				DEVELOPMENT_TEAM = 9W76HCBJZA;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GuildBrowser/GuildBrowser-Prefix.pch";
 				INFOPLIST_FILE = "GuildBrowser/GuildBrowser-Info.plist";
@@ -638,7 +638,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = 77A85Q324A;
+				DEVELOPMENT_TEAM = 9W76HCBJZA;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GuildBrowser/GuildBrowser-Prefix.pch";
 				INFOPLIST_FILE = "GuildBrowser/GuildBrowser-Info.plist";
